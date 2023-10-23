@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on **Milk Quality Prediction AI**
-- 
+ 
 - 🌱 I’m currently learning **AI, python**
 
 - 💬 Ask me about **python**

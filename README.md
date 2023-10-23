@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehmet Ali KOYLU</h1>
+<h1 align="center">Hi, I'm Mehmet Ali KOYLU</h1>
 <h3 align="center">A student trying to get interested in artificial intelligence</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetalikoylu&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetalikoylu" /> </p>

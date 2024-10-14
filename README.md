@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetalikoylu&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetalikoylu" /> </p>
 
 
-- 🔭 I’m currently working on **Flutter mobile programming**
+- 🔭 I’m currently working on **Knife Detection**
  
 - 🌱 I’m currently learning **AI, python**
 

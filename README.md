@@ -20,4 +20,5 @@
 
 ![MehmetAliKOYLU's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetAliKOYLU&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ![MehmetAliKOYLU's Stats](https://github-readme-stats.vercel.app/api?username=MehmetAliKOYLU&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![MehmetAliKOYLU's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MehmetAliKOYLU&theme=vue-dark&hide_border=false)
+[![MehmetAliKOYLU's Streaks](https://streak-stats.demolab.com/MehmetAliKOYLU=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+

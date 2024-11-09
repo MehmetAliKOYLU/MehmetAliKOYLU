@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Learning c++ and  studying for midterm exams**
  
-- 🌱 I’m currently learning **AI, python, opencv, ML**
+- 🌱 I’m currently learning **AI, python, opencv, ML And C++**
 
 - 💬 Ask me about **python**
 
